@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735534455126",
+    "firebase_url": "https://dgpays-w01-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dgpays-w01",
+    "storage_bucket": "dgpays-w01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735534455126:android:50e0e0d2d71095a05c1ef7",
+        "android_client_info": {
+          "package_name": "com.ekenozlu.dgpays_w01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735534455126-h7i3kgvf9gm09ccgokg6sqe32pphrb7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXUWuNfzC4q3M7GB5roZ9fca8sRxJDG6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735534455126-h7i3kgvf9gm09ccgokg6sqe32pphrb7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
