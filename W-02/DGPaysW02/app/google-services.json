@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "301288384789",
+    "project_id": "dgpays-w02-b8732",
+    "storage_bucket": "dgpays-w02-b8732.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301288384789:android:295bcc25b1ee7e2649a11c",
+        "android_client_info": {
+          "package_name": "com.ekenozlu.dgpaysw02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301288384789-a62247pg2c15tddogr7gtqvu23e20edp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2JbfXUSUXPfdYIrbp2lQElFMlwYYCkdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301288384789-a62247pg2c15tddogr7gtqvu23e20edp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
