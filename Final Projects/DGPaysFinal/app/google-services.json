@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648418801316",
+    "project_id": "dgpays-final",
+    "storage_bucket": "dgpays-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648418801316:android:531a77f60cad94c6129831",
+        "android_client_info": {
+          "package_name": "com.ekenozlu.dgpaysfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648418801316-e9ctodjmb7agtks66sacitea7igg60nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKVlxXcYm6L5kgLGTzxStapgfmEqbJ3xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648418801316-e9ctodjmb7agtks66sacitea7igg60nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

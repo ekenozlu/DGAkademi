@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DGPays Final</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_saved">Saved</string>
+    <string name="title_profile">Profile</string>
+</resources>
